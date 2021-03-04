@@ -5,3 +5,4 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 
 ## Table of contents
 - [Factory, Abstract Factory, Factory Method](https://youtu.be/xN7EFHU_rXA)
+- [Builder](https://youtu.be/WfBsYo20D_I)
