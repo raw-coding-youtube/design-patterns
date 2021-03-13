@@ -6,3 +6,5 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 ## Table of contents
 - [Factory, Abstract Factory, Factory Method](https://youtu.be/xN7EFHU_rXA)
 - [Builder](https://youtu.be/WfBsYo20D_I)
+- [Prototype](https://youtu.be/fqaoCDyxb1w)
+- [Singleton](https://youtu.be/9_9hI69fwhg)
