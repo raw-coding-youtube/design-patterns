@@ -17,6 +17,8 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 - [Adapter](https://youtu.be/9ZFN8DrvcYA)
 - [Decorator](https://youtu.be/6rTnCkdbJA4)
 - [Proxy](https://youtu.be/m0aXyRDEQqU)
+- [Facade](https://youtu.be/xzpp5_ak8Hg)
+- [Composite](https://youtu.be/UsynwPeipb8)
 
 
 ### Behavioral Patterns
