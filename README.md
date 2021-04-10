@@ -19,7 +19,10 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 - [Proxy](https://youtu.be/m0aXyRDEQqU)
 - [Facade](https://youtu.be/xzpp5_ak8Hg)
 - [Composite](https://youtu.be/UsynwPeipb8)
+- [Bridge](https://youtu.be/ECBimbOaPs0)
+- [Flyweight](https://youtu.be/XxOFsO-Xw8k)
 
 
 ### Behavioral Patterns
-WIP
+
+- [Iterator](https://youtu.be/Gco6zF_ygSc)
