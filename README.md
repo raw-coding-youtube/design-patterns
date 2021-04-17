@@ -26,3 +26,4 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 ### Behavioral Patterns
 
 - [Iterator](https://youtu.be/Gco6zF_ygSc)
+- [Chain of Responsibility](https://youtu.be/YQ03IyRu1Zo)
