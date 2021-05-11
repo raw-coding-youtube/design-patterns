@@ -29,3 +29,6 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 - [Interpreter](https://youtu.be/Vc3aiaAcIME)
 - [Chain of Responsibility](https://youtu.be/YQ03IyRu1Zo)
 - [Command](https://youtu.be/nW2ahdZojho)
+- [Mediator](https://youtu.be/VYLD75sU1rw)
+- [Memento](https://youtu.be/SAaIsErpGDY)
+- [Observer](https://youtu.be/8nICu7ZSPtE)
