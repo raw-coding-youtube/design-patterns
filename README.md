@@ -32,3 +32,6 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 - [Mediator](https://youtu.be/VYLD75sU1rw)
 - [Memento](https://youtu.be/SAaIsErpGDY)
 - [Observer](https://youtu.be/8nICu7ZSPtE)
+- [Strategy](https://youtu.be/25qf3VkAlis)
+- [State](https://youtu.be/rYmVpqiGL14)
+
