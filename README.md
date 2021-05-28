@@ -34,4 +34,6 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 - [Observer](https://youtu.be/8nICu7ZSPtE)
 - [Strategy](https://youtu.be/25qf3VkAlis)
 - [State](https://youtu.be/rYmVpqiGL14)
+- [Visitor](https://youtu.be/6SByyc-0c0s)
+- [Template Method](https://youtu.be/mcc4XQHpVC8)
 
