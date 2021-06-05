@@ -37,3 +37,7 @@ Full Playlist can be found [here](https://www.youtube.com/playlist?list=PLOeFnOV
 - [Visitor](https://youtu.be/6SByyc-0c0s)
 - [Template Method](https://youtu.be/mcc4XQHpVC8)
 
+### Functional
+
+- [Monoid](https://youtu.be/KsGWMYLuHcY)
+- [Monad](https://youtu.be/eSiTfQTxr10)
